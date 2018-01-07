@@ -1,7 +1,7 @@
 # yarr
 All source code, free to plunder.
 
-
+```
                ______
               ( _ _ _)
                |_ _ |
@@ -35,7 +35,7 @@ All source code, free to plunder.
     ``-.._``--.._.._..:F_P:.--''
           ``--.._  _..--''
                  `'
-
+```
 #To-do
 1. Add recipe for dark rum
 2. Add instructions on how to compile
